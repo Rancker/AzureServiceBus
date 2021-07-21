@@ -1,0 +1,17 @@
+C:\Chhavi\Code\ServiceBusTest\SBShared\bin\Debug\netcoreapp3.1\SBShared.deps.json
+C:\Chhavi\Code\ServiceBusTest\SBShared\bin\Debug\netcoreapp3.1\SBShared.dll
+C:\Chhavi\Code\ServiceBusTest\SBShared\bin\Debug\netcoreapp3.1\SBShared.pdb
+C:\Chhavi\Code\ServiceBusTest\SBShared\obj\Debug\netcoreapp3.1\SBShared.AssemblyInfoInputs.cache
+C:\Chhavi\Code\ServiceBusTest\SBShared\obj\Debug\netcoreapp3.1\SBShared.AssemblyInfo.cs
+C:\Chhavi\Code\ServiceBusTest\SBShared\obj\Debug\netcoreapp3.1\SBShared.csproj.CoreCompileInputs.cache
+C:\Chhavi\Code\ServiceBusTest\SBShared\obj\Debug\netcoreapp3.1\SBShared.dll
+C:\Chhavi\Code\ServiceBusTest\SBShared\obj\Debug\netcoreapp3.1\SBShared.pdb
+C:\Chhavi\Code\AzureServiceBus\SBShared\bin\Debug\netcoreapp3.1\SBShared.deps.json
+C:\Chhavi\Code\AzureServiceBus\SBShared\bin\Debug\netcoreapp3.1\SBShared.dll
+C:\Chhavi\Code\AzureServiceBus\SBShared\bin\Debug\netcoreapp3.1\SBShared.pdb
+C:\Chhavi\Code\AzureServiceBus\SBShared\obj\Debug\netcoreapp3.1\SBShared.csprojAssemblyReference.cache
+C:\Chhavi\Code\AzureServiceBus\SBShared\obj\Debug\netcoreapp3.1\SBShared.AssemblyInfoInputs.cache
+C:\Chhavi\Code\AzureServiceBus\SBShared\obj\Debug\netcoreapp3.1\SBShared.AssemblyInfo.cs
+C:\Chhavi\Code\AzureServiceBus\SBShared\obj\Debug\netcoreapp3.1\SBShared.csproj.CoreCompileInputs.cache
+C:\Chhavi\Code\AzureServiceBus\SBShared\obj\Debug\netcoreapp3.1\SBShared.dll
+C:\Chhavi\Code\AzureServiceBus\SBShared\obj\Debug\netcoreapp3.1\SBShared.pdb

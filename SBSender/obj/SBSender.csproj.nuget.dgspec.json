@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Chhavi\\Code\\AzureServiceBus\\SBSender\\SBSender.csproj": {}
+  },
+  "projects": {
+    "C:\\Chhavi\\Code\\AzureServiceBus\\SBSender\\SBSender.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Chhavi\\Code\\AzureServiceBus\\SBSender\\SBSender.csproj",
+        "projectName": "SBSender",
+        "projectPath": "C:\\Chhavi\\Code\\AzureServiceBus\\SBSender\\SBSender.csproj",
+        "packagesPath": "C:\\Users\\chhavi.goel\\.nuget\\packages\\",
+        "outputPath": "C:\\Chhavi\\Code\\AzureServiceBus\\SBSender\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chhavi.goel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "C:\\code\\ratesetter.common.data\\src\\RateSetter.Common.Data\\bin\\Release": {},
+          "C:\\code\\ratesetter.shared.servicetests\\src\\RateSetter.Shared.ServiceTests\\bin\\Release": {},
+          "http://rs-dev01:81/nuget/Default": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Chhavi\\Code\\AzureServiceBus\\SBShared\\SBShared.csproj": {
+                "projectPath": "C:\\Chhavi\\Code\\AzureServiceBus\\SBShared\\SBShared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Azure.ServiceBus": {
+              "target": "Package",
+              "version": "[5.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Chhavi\\Code\\AzureServiceBus\\SBShared\\SBShared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Chhavi\\Code\\AzureServiceBus\\SBShared\\SBShared.csproj",
+        "projectName": "SBShared",
+        "projectPath": "C:\\Chhavi\\Code\\AzureServiceBus\\SBShared\\SBShared.csproj",
+        "packagesPath": "C:\\Users\\chhavi.goel\\.nuget\\packages\\",
+        "outputPath": "C:\\Chhavi\\Code\\AzureServiceBus\\SBShared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chhavi.goel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "C:\\code\\ratesetter.common.data\\src\\RateSetter.Common.Data\\bin\\Release": {},
+          "C:\\code\\ratesetter.shared.servicetests\\src\\RateSetter.Shared.ServiceTests\\bin\\Release": {},
+          "http://rs-dev01:81/nuget/Default": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
